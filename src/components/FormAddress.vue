@@ -1,5 +1,5 @@
 <template>
-	<div class="adress"> 
+	<div class="address"> 
 		<h3>Адрес:</h3> 
 		<input type="text" placeholder="Индекс"> 
 		<input type="text" placeholder="Страна"> 
